@@ -94,11 +94,16 @@ Para el entregable 3, se creó el proyecto en Quartus y se usó el módulo sum1b
 
 Luego de comprobar que el código compilara correctamente, se procedió a realizar la simulación usando el software Questa. Para la simulación, las entradas A, B y Cin se forzaron a clock con el fin de revisar los diferentes resultados y que sean correctos, la captura de pantalla de la simulación se muestra a continuación.
 
-![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image_2.png)
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%202.png)
 
 Donde se pudo comprobar que el código para el sumador de 1 bit funciona correctamente.
 
 Finalmente, pese a que se realizaron los pasos indicados en la guía, no fue posible verificar el funcionamiento del código en la FPGA, a continuación se muestran capturas del proceso donde se seleccionan los pines y se carga el código a la tarjeta.
+
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%203.png)
+
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%204.png)
+
 
 
 
