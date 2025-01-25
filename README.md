@@ -1,6 +1,7 @@
-# lab01- sumador 
-## nombres
+# Laboratorio 01. Sumador de 1 bit
+## Nombres
+Juan Esteban Otavo García
 
-## informe de laoratorio 
+## Informe de laboratorio 1
 
-### sumador 
+### Sumador
