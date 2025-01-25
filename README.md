@@ -100,7 +100,7 @@ Donde se pudo comprobar que el código para el sumador de 1 bit funciona correct
 
 Finalmente, pese a que se realizaron los pasos indicados en la guía, no fue posible verificar el funcionamiento del código en la FPGA, a continuación se muestran capturas del proceso donde se seleccionan los pines y se carga el código a la tarjeta.
 
-![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%203.png)
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%203..png)
 
 ![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image%204.png)
 
