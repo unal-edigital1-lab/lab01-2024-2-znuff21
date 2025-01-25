@@ -85,6 +85,20 @@ Comparando los módulos sum1bcc_primitive y sum1bcc se pueden encontrar diferenc
 
 ## Entregable 3
 
+Para el entregable 3, se creó el proyecto en Quartus y se usó el módulo sum1bcc como archivo principal. Luego, se compiló usando la opción Analysis and Synthesis como se ve en la siguiente imagen.
+
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image2.png)
+
+Luego de comprobar que el código compilara correctamente, se procedió a realizar la simulación usando el software Questa. Para la simulación, las entradas A, B y Cin se forzaron a clock con el fin de revisar los diferentes resultados y que sean correctos, la captura de pantalla de la simulación se muestra a continuación.
+
 ![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image.png)
+
+Donde se pudo comprobar que el código para el sumador de 1 bit funciona correctamente.
+
+Finalmente, pese a que se realizaron los pasos indicados en la guía, no fue posible verificar el funcionamiento del código en la FPGA, a continuación se muestran capturas del proceso donde se seleccionan los pines y se carga el código a la tarjeta.
+
+
+
+
 
 
