@@ -45,4 +45,8 @@ module sum1bcc_primitive (A, B, Ci,Cout,S);
 endmodule
 ```
 
+Las líneas que empiezan con la palabra input seguido del nombre de una variable permiten declarar las entradas del circuito, asímismo las líneas que empiezan con la palabra output declaran las salidas del circuito. La palabra reservada wire permite declarar los cables que serán usados para conectar las entradas y salidas del sistema.
+
+And, or y xor son funciones que permiten conectar variables mediante compuertas lógicas.
+
 ### Sumador
