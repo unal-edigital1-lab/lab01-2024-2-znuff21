@@ -81,6 +81,10 @@ Al igual que en el código anterior, primero se define el módulo sum1bcc y se a
 
 En el bloque always se calcula la suma. Este bloque combinacional se activa siempre que cualquier señal (en este caso, A, B, o Ci) cambie de valor. Esto se indica con always @ (*). Dentro del bloque la suma A + B + Ci se calcula y se almacena en el registro st. Finalmente, como st tiene 2 bits, puede almacenar tanto el resultado (S) como el acarreo (Cout).
 
-Comparando los módulos sum1bcc_primitive y sum1bcc se pueden encontrar diferencias significativas en la programación que llevan para llegar al mismo resultado. Mientras que en sum1bcc se usa una suma directa (A + B + Ci), en sum1bcc_primitive se usan puertas lógicas para realizar la suma, 
+Comparando los módulos sum1bcc_primitive y sum1bcc se pueden encontrar diferencias significativas en la programación que llevan para llegar al mismo resultado. Mientras que en sum1bcc se usa una suma directa (A + B + Ci), en sum1bcc_primitive se usan puertas lógicas para realizar la suma, como se explicó en el entregable anterior.
 
-### Sumador
+## Entregable 3
+
+![image](https://github.com/unal-edigital1-lab/lab01-2024-2-znuff21/blob/master/src/docs/image.png)
+
+
